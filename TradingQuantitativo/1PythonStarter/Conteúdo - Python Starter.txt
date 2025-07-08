@@ -1,0 +1,149 @@
+## **Conteúdo do Curso**
+
+### **1. Apresentação do Curso**
+
+* 1.1 – Boas-vindas
+* 1.2 – Asimov Academy: nossos princípios
+* 1.3 – O que é uma linguagem de programação
+* 1.4 – O que podemos e não podemos fazer com Python
+* 1.5 – Como tirar suas dúvidas?
+
+---
+
+### **2. Lógica de Programação**
+
+* 2.1 – Apresentação Lógica de Programação
+* 2.2 – Algoritmos 1
+* 2.3 – Algoritmos 2
+* 2.4 – Algoritmos 3
+* 2.5 – Algoritmos 4
+* 2.6 – Quiz – Algoritmos 1
+* 2.7 – Variáveis
+* 2.8 – Operadores
+* 2.9 – Estruturas de controle de fluxo
+* 2.10 – Estruturas de repetição
+* 2.11 – Quiz – Algoritmos 2
+
+---
+
+### **3. Introdução a Python**
+
+* 3.1 – O que é Python
+* 3.2 – Atualização – instalando e configurando Python
+* 3.3 – O terminal do Windows
+* 3.4 – Instalando Python no Windows
+* 3.5 – O que são IDEs
+* 3.6 – Instalando e configurando o VS Code
+* 3.7 – Extensões e atalhos do VS Code
+* 3.8 – Jupyter Notebook e Jupyter Lab
+
+---
+
+### **4. Fundamentos da Linguagem**
+
+* 4.1 – Primeiros passos com JupyterLab
+* 4.2 – Números
+* 4.3 – Variáveis
+* 4.4 – Quiz – Operadores Básicos
+* 4.5 – Strings e Indexação
+* 4.6 – Mais sobre Strings e Métodos embutidos
+* 4.7 – Quiz – Strings
+* 4.8 – Listas
+* 4.9 – Quiz – Listas
+* 4.10 – Dicionários
+* 4.11 – Quiz – Dicionários
+* 4.12 – Tuplas
+* 4.13 – Quiz – Tuplas
+* 4.14 – Input, Sets e Booleanos
+* 4.15 – Quiz – Set()
+* 4.16 – Operadores de comparação
+* 4.17 – Quiz – Operadores Comparativos
+* 4.18 – Exercícios – Parte 1
+* 4.19 – Solução dos exercícios – Parte 1
+* 4.20 – Operadores de comparação em cadeia
+* 4.21 – If, Elif e Else
+* 4.22 – Quiz – Condicionais
+* 4.23 – Range
+* 4.24 – For
+* 4.25 – Quiz – for e range
+* 4.26 – While
+* 4.27 – Quiz – While
+* 4.28 – Compreensão em listas
+* 4.29 – Funções
+* 4.30 – Quiz – Funções
+* 4.31 – Lambda
+* 4.32 – Exercícios – Parte 2
+* 4.33 – Solução dos exercícios – Parte 2
+
+---
+
+### **5. Projeto – Construindo uma Calculadora**
+
+* 5.1 – Introdução – Calculadora
+* 5.2 – Resolução – Calculadora
+
+---
+
+### **6. Projeto – Software de Gestão para Locadora de Carros**
+
+* 6.1 – Introdução
+* 6.2 – Resolução – Parte 1
+* 6.3 – Resolução – Parte 2
+
+---
+
+### **7. Módulo OS**
+
+* 7.1 – Automações básicas com OS
+* 7.2 – Métodos do OS
+* 7.3 – OS.path
+* 7.4 – Apresentação do projeto
+* 7.5 – Organizando arquivos parte 1
+* 7.6 – Organizando arquivos parte 2
+
+---
+
+### **8. Gerenciamento de Erros e Depuração de Código**
+
+* 8.1 – Apresentação do módulo
+* 8.2 – Importação de módulos e PDB
+* 8.3 – Quiz – Erros e Depuração 1
+* 8.4 – Try, Except e Finally
+* 8.5 – Logging
+* 8.6 – Quiz – Erros e Depuração 2
+
+---
+
+### **9. Projeto – Pedra, Papel, Tesoura**
+
+* 9.1 – Projeto: Pedra, Papel e Tesoura – Parte 1
+* 9.2 – Projeto: Pedra, Papel e Tesoura – Parte 2
+
+---
+
+### **10. Programação Orientada a Objetos**
+
+* 10.1 – Introdução
+* 10.2 – Objetos e classes no Python
+* 10.3 – Criando classes e métodos
+* 10.4 – Quiz – Métodos e Classes
+* 10.5 – Herança e Métodos especiais
+
+---
+
+### **11. Projeto – Simulando o "Caos" em Academias**
+
+* 11.1 – Projeto: Simulador de Caos – Parte 1
+* 11.2 – Projeto: Simulador de Caos – Parte 2
+* 11.3 – Projeto: Simulador de Caos – Parte 3
+
+---
+
+### **12. Projeto – Jogo da Velha**
+
+* 12.1 – Projeto: Jogo da Velha – Parte 1
+* 12.2 – Projeto: Jogo da Velha – Parte 2
+* 12.3 – Projeto: Jogo da Velha – Parte 3
+
+---
+

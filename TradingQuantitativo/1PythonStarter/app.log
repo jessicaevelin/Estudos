@@ -1,0 +1,8 @@
+INFO:root:Testando
+CRITICAL:root:Erro Grave
+WARNING:root:Erro Grave
+DEBUG:root:Erro Grave
+INFO 2025-06-25 12:37:43,029 - Testando
+CRITICAL 2025-06-25 12:37:43,029 - Erro Grave
+WARNING 2025-06-25 12:37:43,029 - Erro Grave
+DEBUG 2025-06-25 12:37:43,030 - Erro Grave

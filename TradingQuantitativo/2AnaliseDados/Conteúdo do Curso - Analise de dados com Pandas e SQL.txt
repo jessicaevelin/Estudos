@@ -1,0 +1,71 @@
+Conteúdo do Curso
+1. Onboarding
+Conteúdo do módulo:
+1.1 - Apresentação do Curso
+1.2 - O que são SQL e Pandas
+1.3 - SQL x Pandas
+1.4 - Quando usar cada um
+
+2. Apresentação do Curso
+Conteúdo do módulo:
+2.1 - Como tirar suas dúvidas?
+
+3. Conceitos Básicos de Pandas
+Conteúdo do módulo:
+3.1 - O que é o Pandas e do que ele é capaz
+3.2 - Como estudar Pandas?
+3.3 - Como vão se dar as aulas?
+3.4 - Series
+3.5 - DataFrames e manipulação de colunas
+3.6 - Quiz – Conceitos Básicos de Pandas
+
+4. Índices, filtros e groupby
+Conteúdo do módulo:
+4.1 - Iloc e Filtros
+4.2 - Operações com índices
+4.3 - Índices multiníveis
+4.4 - Tratamento de dados ausentes
+4.5 - Groupby
+4.6 - Quiz – Índices, filtros e groupby
+
+5. Lendo e combinando tabelas
+Conteúdo do módulo:
+5.1 - Merge, concat e join
+5.2 - Operações com DataFrames
+5.3 - Séries temporais no Pandas
+5.4 - Entrada e saída de dados
+5.5 - Encerramento
+5.6 - Quiz – Lendo e combinando tabelas
+
+6. Interagindo com bancos SQL pelo Pandas
+Conteúdo do módulo:
+6.1 - Inserindo dados em um BD
+6.2 - Comandos CREATE e DROP
+6.3 - INSERT
+6.4 - SELECT, FROM e WHERE
+6.5 - UPDATE e DELETE
+6.6 - Quiz – Interagindo com bancos SQL com Pandas
+
+7. Análise dos preços da gasolina no Brasil
+Conteúdo do módulo:
+7.1 - Apresentação dos exercícios
+7.2 - Resolução dos exercícios – pt1
+7.3 - Resolução dos exercícios – pt2
+7.4 - Resolução dos exercícios – pt3
+
+8. Análise de dados de obesidade mundial
+Conteúdo do módulo:
+8.1 - Apresentação do projeto
+8.2 - Funções adicionais
+8.3 - Análise de dados de obesidade – pt1
+8.4 - Análise de dados da obesidade – pt2
+
+9. Análise de dados de PIB per capita
+Conteúdo do módulo:
+9.1 - GDP – pt1
+9.2 - GDP – pt2
+9.3 - GDP – pt3
+
+10. Desafio Final
+Conteúdo do módulo:
+10.1 - Desafio Final
